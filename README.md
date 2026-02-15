@@ -16,3 +16,19 @@
 
 
 
+\## Day 5 - Production Hardening
+
+
+
+\- Implemented secure token handling using environment variables
+
+\- Enabled API throttling policies (10PerMin)
+
+\- Enforced OAuth2 authentication
+
+\- Added application-level access control
+
+\- Integrated structured logging for observability
+
+
+
